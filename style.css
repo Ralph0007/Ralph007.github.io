@@ -1,0 +1,270 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.one {
+    display: flex;
+    justify-content: center;
+    /*align-content: flex-start;*/
+    background-color: red;
+    font-size: 1rem;
+    color: white;
+    padding: 2rem 2rem 2rem 2rem;
+    width: 92.75vw;
+}
+
+
+
+.c21 {
+    display: flex;
+    align-content: flex-start;
+    width: 45%;
+    
+    color: white;
+    /*padding: 2rem 2rem 2rem 2rem;*/
+}
+
+.c22 {
+    display: flex;
+    align-content: flex-start;
+    width: 45%;
+    
+    color: white;
+    /*padding: 2rem 2rem 2rem 2rem;*/
+}
+
+.c23 {
+    display: flex;
+    align-content: flex-start;
+    width: 45%;
+    
+    color: white;
+    /*padding: 2rem 2rem 2rem 2rem;*/
+}
+
+button {
+    background: rgb(133, 197, 202);
+    border-radius: 5px;
+    border-color: rgb(178, 224, 224);
+    padding: 5px 5px 5px 5px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.container1 {
+    display: flex;
+    align-items: flex-start;
+}
+.container2 {
+    display: flex;
+    align-content: flex-start;
+}
+.container3 {
+    display: flex;
+    align-content: flex-start;
+}
+.container4 {
+    display: flex;
+    align-items: flex-start;
+}
+.container5 {
+    display: flex;
+    align-content: flex-start;
+}
+.container6 {
+    display: flex;
+    align-content: flex-start;
+}
+
+.container7{
+    display: flex;
+    align-items: flex-end;
+
+}
+.container8{
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.npage{
+    border: 1px solid blue;
+    background-color: mediumvioletred;
+    color: white;
+    border-radius: 4px;
+    margin-left: 69rem;
+    margin-top: 30rem;
+}
+
+.ppage{
+    border: 1px solid blue;
+    background-color: mediumvioletred;
+    color: white;
+    border-radius: 4px;
+    margin-left: 67rem;
+    margin-top: 30rem;
+}
+
+.box1 {
+    border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+  
+}
+
+.box2 {
+    border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+
+}
+.box3 {border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+  
+}
+
+.box4 {
+    border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+    
+}
+
+.box5 {
+    border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+   
+}
+.box6 {border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+    
+}
+
+.box7 {
+    border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+   
+}
+
+.box8 {
+    border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+   
+}
+.box9 {border: 1px solid black;
+    width: 33.3%;
+    height: 70vh;
+  
+}
+
+.b1 {
+    width: 100%;
+    height: 100%;
+}
+
+/*.fone{
+    float: left;
+    background: red;
+    height: 200px;
+    width: 33.33%;
+}
+.ftwo{
+    float: left;
+    background: blue;
+    height: 200px;
+    width: 33.33%;
+}
+.fthree{
+    float: left;
+    background: green;
+    height: 200px;
+    width: 33.33%;
+}*/
+
+.flexd{
+    display: flex;
+    align-items: flex-start;
+    /*padding: 10px 0px 10px 0px;*/
+}
+
+.hone{
+    background: orange;
+    width: 98.5vw;
+    height: 150px;
+}
+
+.fone{
+    display: flex;
+    flex-direction: column;
+    background: rgb(24, 24, 25);
+    height: 150vh;
+    width: 15%;
+}
+.ftwo{
+    background: rgba(100, 100, 100, 0.01);
+    height: 150vh;
+    width: 75%;
+}
+.fthree{
+    background: green;
+    height: 150vh;
+    width: 10%;
+}
+
+.rmenu{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1rem;
+    text-decoration: underline;
+    /*margin-left: 20px;*/
+}
+.rmenu1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1rem;
+}
+
+.rmenu1:hover{
+    background: rgba(223, 41, 41, 0.2);
+    border-radius: 10px;
+    transform:scale(1.5, 1.5)
+    
+}
+
+
+
+.htitle{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 30px 0px 10px 20px;
+}
+
+.amenu{
+    color: white;
+}
+
+.ftwo{
+    display: flex;
+    flex-direction: column;
+}
+.ftwoup{
+    display: flex;
+    flex-direction: row;
+}
+.ftwodown{
+    display: flex;
+    flex-direction: row;
+}
